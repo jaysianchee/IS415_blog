@@ -1,0 +1,20 @@
+name: "R4DSA"
+title: "R4DSA"
+description: |
+  IS415 Web Blog
+output_dir: "_site"
+navbar:
+  right:
+    - text: "Take-Home Exercise"
+      menu:
+      - text: "Take-Home Exercise 1"
+        href: ""
+      - text: "Take-Home Exercise 2"
+        href: ""
+      - text: "Take-Home Exercise 3"
+        href: ""
+    - text: "In-Class Exercise"
+      href: index.html
+    - text: "About"
+      href: about.html
+output: distill::distill_article

@@ -1,0 +1,19 @@
+[
+  {
+    "path": "posts/welcome/",
+    "title": "Welcome to IS415 Web Blog",
+    "description": "Weewoopeepoo",
+    "author": [
+      {
+        "name": "Chee Jay Sian",
+        "url": "https://www.instagram.com/js.chee/"
+      }
+    ],
+    "date": "2021-08-17",
+    "categories": [],
+    "contents": "\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2021-08-17T21:01:42+08:00",
+    "input_file": {}
+  }
+]
